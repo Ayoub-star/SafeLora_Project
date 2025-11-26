@@ -89,12 +89,13 @@ SafeLoRa_Project/
 - Certificate stored directly in firmware  
 
 Payload example:
-```json
+
 {
   "vibration": 1,
   "strength": 87,
   "rssi": -72
 }
+
 
 ## Compliance & Frequency Choice
 
